@@ -1,8 +1,8 @@
-## Hi, I am DHRUVI! Great to see you here! 👋
+## Hi, I am ANVI ! Great to see you here! 👋
 
 
 
-- 📫 How to reach me: thakkardhruvi210@gmail.com 
+- 📫 How to reach me: anvithakkar6@gmail.com 
 - 😄 Pronouns: SHE/HER 
 
 <p align="center"> <a href="https://twitter.com/dhruvicodes" target="blank"><img src="https://img.shields.io/twitter/follow/dhruvicodes?logo=twitter&style=for-the-badge" alt="dhruvithakkar" /></a> </p>
